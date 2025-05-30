@@ -1,4 +1,5 @@
- Online Retail EDA
+# Online Retail EDA
+------------------------------------------------------------------------------------------------
 
 This project is an exploratory data analysis (EDA) on an online retail dataset. 
 It focuses on understanding customer purchasing behavior and uncovering business insights using feature engineering, RFM analysis, and visualizations.
@@ -21,7 +22,7 @@ What’s Inside
 ---
 
 Feel free to fork or download. Feedback and contributions are welcome!
-# 🏏 IPL Auction 2023 - Exploratory Data Analysis (EDA)
+#  IPL Auction 2023 - Exploratory Data Analysis (EDA)
 ---------------------------------------------------------------------------------------------------
 IPL AUCTION 2023 EDA
 This project presents a detailed exploratory data analysis of the **IPL Auction 2023** dataset. The goal was to understand player auction dynamics, franchise spending behavior, and uncover meaningful insights using data cleaning, feature engineering, and visualization.
